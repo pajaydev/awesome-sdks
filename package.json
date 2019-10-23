@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Ajaykumar Prathap",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "awesome-lint"
+  },
+  "dependencies": {
+    "awesome-lint": "^0.11.0"
+  }
 }

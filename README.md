@@ -2,9 +2,10 @@
 
 > A curated list of Software development kits across all platforms.
 
-Please raise a [Pull-Request]() to add an awesome WebAudio thing to this list.
+Please raise a [Pull-Request]() to add an awesome sdk's to this list.
 
-## Contents
+# Table of Contents
+## Programming Languages
 - [Andriod](#andriod)
 - [Csharp](#csharp)
 - [IOS](#ios)
@@ -19,6 +20,7 @@ Please raise a [Pull-Request]() to add an awesome WebAudio thing to this list.
 - [Facebook](https://github.com/facebook/facebook-android-sdk) - Integrate Android 
 apps with Facebook Platform.
 - [Firebase](https://github.com/firebase/firebase-android-sdk) - [Firebase](http://firebase.google.com) Android SDK.
+- [Spotify](https://github.com/spotify/android-sdk) - [Spotify](https://developer.spotify.com/documentation/android/) SDK for Andriod.
 - [Stripe](https://github.com/stripe/stripe-android) - Andriod SDK for the [Stripe](https://stripe.com) API.
 
 
@@ -41,6 +43,7 @@ apps with Facebook Platform.
 - [Firebase](https://github.com/firebase/firebase-ios-sdk) - [Firebase](http://firebase.google.com) IOS SDK.
 - [Paypal](https://github.com/paypal/PayPal-iOS-SDK) - Mobile SDK to consume paypal API's.
 - [AWS](https://github.com/aws-amplify/aws-sdk-ios) - IOS SDK for AWS api's.
+- [Spotify](https://github.com/spotify/ios-sdk) - [Spotify](https://developer.spotify.com/documentation/ios/) SDK for IOS.
 - [Stripe](https://github.com/stripe/stripe-ios) - [Stripe](https://stripe.com) iOS SDK.
 
 #### UnOfficial
